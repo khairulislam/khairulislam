@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=khairulislam&style=flat-square" alt="" />
 <br>
 <a href="https://github.com/khairulislam">
-    <img src="https://github-stats-alpha.vercel.app/api?username=khairulislam&cc=FFFFFF&tc=000000&ic=FFFFFF&bc=000000" alt="Github contribution" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=khairulislam&cc=008080&tc=FFFFFF&ic=FFFFFF&bc=000000" alt="Github contribution" />
 </a>
 <br />
 
