@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Khairul, an AI Researcher at UVA
 
-[![khairulislam](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Md.+Khairul+Islam;Artificial+Intelligence+Researcher)](https://github.com/khairulislam)
+<!-- [![khairulislam](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=Md.+Khairul+Islam;Artificial+Intelligence+Researcher)](https://github.com/khairulislam) -->
 
 <p align="center">
 <!-- https://shields.io/docs/logos -->
