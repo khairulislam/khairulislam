@@ -16,7 +16,7 @@
 <!-- Github streak -->
 <!-- <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=flat-square&logo=fire&logoColor=fff&color=orange&label=GitHub%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dkhairulislam%26type%3Djson" alt="" />
 <!-- profile view -->
-<img src="https://komarev.com/ghpvc/?username=khairulislam&style=flat-square" alt="" />
+<!-- <img src="https://komarev.com/ghpvc/?username=khairulislam&style=flat-square" alt="" />
 <br> -->
 <a href="https://github.com/khairulislam">
     <img src="https://github-stats-alpha.vercel.app/api?username=khairulislam&cc=008080&tc=FFFFFF&ic=FFFFFF&bc=000000" alt="Github contribution" />
